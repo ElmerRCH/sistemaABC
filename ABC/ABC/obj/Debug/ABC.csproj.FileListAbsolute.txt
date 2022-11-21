@@ -1,0 +1,16 @@
+C:\Users\reneh\source\repos\ABC\ABC\bin\Debug\ABC.exe.config
+C:\Users\reneh\source\repos\ABC\ABC\bin\Debug\ABC.exe
+C:\Users\reneh\source\repos\ABC\ABC\bin\Debug\ABC.pdb
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.csproj.AssemblyReference.cache
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.Form1.resources
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.Properties.Resources.resources
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.csproj.GenerateResource.cache
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.exe
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.pdb
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.Index.resources
+C:\Users\reneh\source\repos\ABC\ABC\bin\Debug\MySql.Data.dll
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.csproj.CopyComplete
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.baja.resources
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.cambio.resources
+C:\Users\reneh\source\repos\ABC\ABC\obj\Debug\ABC.consulta.resources
